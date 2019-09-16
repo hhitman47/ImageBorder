@@ -1,1 +1,1 @@
-![](imageb.png)
+![](/imageb.png)
